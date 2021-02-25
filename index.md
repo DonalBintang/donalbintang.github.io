@@ -5,3 +5,5 @@ Indonesia is famous with its variety cuisine. Some of this cuisine represents th
 **1. Beef Rendang**
 
 ![Rendang](Rendang.jpg)
+
+[About](/about)
